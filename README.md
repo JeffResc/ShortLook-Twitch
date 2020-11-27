@@ -1,3 +1,6 @@
+# Note
+This project has been archived due to API complications no longer making this feature possible as OAuth tokens from particular users are now required in order to fetch profile photos from the Twitch API. All code here no longer functions, but if left open for future reference.
+
 # Twitch Photo Provider for ShortLook
 [![Build Status](https://travis-ci.org/JeffResc/ShortLook-Twitch.svg?branch=master)](https://travis-ci.org/JeffResc/ShortLook-Twitch)
 
